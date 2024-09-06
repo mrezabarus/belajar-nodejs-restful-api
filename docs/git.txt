@@ -1,0 +1,1 @@
+git remote set-url origin git@github.com:mrezabarus/belajar-nodejs-restful-api.git // untuk mengganti repository yang saat ini sedang digunakan
